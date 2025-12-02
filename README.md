@@ -104,24 +104,3 @@ void loop() {
   delay(5000);
 }
 ---
-📡 Antena
-
-Para mejorar el alcance, conectar un cable de ~75 cm al pin ANT del Si4713.
-
-🛠 Compilación y carga
-
-Instalar ESP32 Board en el Arduino IDE.
-
-Seleccionar ESP32 Dev Module.
-
-Conectar el ESP32 por USB.
-
-Subir el código.
-
-📚 Licencia
-
-MIT License.
-
-🙌 Agradecimientos
-
-Proyecto basado en las librerías oficiales de Adafruit y la comunidad open-source.
